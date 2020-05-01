@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXZuuFgkFt4QMFvsacqlysLR0X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
+      <recent name="$PROJECT_DIR$/Section_04" />
+      <recent name="$PROJECT_DIR$/Section_07" />
+      <recent name="$PROJECT_DIR$/Section_06" />
+      <recent name="$PROJECT_DIR$/Section_05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Section_06/project_files/first_folder" />
+      <recent name="$PROJECT_DIR$/Section_06/project_files" />
+      <recent name="$PROJECT_DIR$/Section_01" />
+      <recent name="$PROJECT_DIR$/Section_001" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.assignment_01 (1)">
+    <configuration name="Assignment_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/Assignment_09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_05/assignment_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_06/assignment_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.assignment_01 (1)" />
+        <item itemvalue="Python.assignment_01" />
+        <item itemvalue="Python.Assignment_09" />
+        <item itemvalue="Python.assignment_08" />
+        <item itemvalue="Python.assignment_06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="" />
+      <created>1584987624510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584987624510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585078602438">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="553" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1585078602438" />
+    <state x="553" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.963@0.23.1680.963" timestamp="1584987668869" />
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom" timestamp="1587848272003">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586812812978" />
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587246586020" />
+    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587848272003" />
+    <state width="1659" height="245" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1585012234423" />
+    <state width="1659" height="245" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1585077167974" />
+    <state width="1659" height="243" key="GridCell.Tab.0.center" timestamp="1587848272002">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1586812812977" />
+    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
+    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
+    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587246586019" />
+    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587848272002" />
+    <state width="1659" height="245" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1585012234422" />
+    <state width="1659" height="245" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
+    <state width="1659" height="243" key="GridCell.Tab.0.left" timestamp="1587848272002">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1586812812977" />
+    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1586896304280" />
+    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
+    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587246586018" />
+    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587848272002" />
+    <state width="1659" height="245" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1585012234422" />
+    <state width="1659" height="245" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
+    <state width="1659" height="243" key="GridCell.Tab.0.right" timestamp="1587848272003">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1586812812978" />
+    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
+    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
+    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587246586019" />
+    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587848272003" />
+    <state width="1659" height="245" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1585012234423" />
+    <state width="1659" height="245" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
+    <state width="1659" height="307" key="GridCell.Tab.1.bottom" timestamp="1586984046739">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="304" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586283827002" />
+    <state width="1659" height="307" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586890018078" />
+    <state width="1659" height="307" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1586984046739" />
+    <state width="1659" height="307" key="GridCell.Tab.1.center" timestamp="1586984046738">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="304" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1586283827001" />
+    <state width="1659" height="307" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1586890018077" />
+    <state width="1659" height="307" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1586984046738" />
+    <state width="1659" height="307" key="GridCell.Tab.1.left" timestamp="1586984046738">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="304" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1586283827001" />
+    <state width="1659" height="307" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1586890018077" />
+    <state width="1659" height="307" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1586984046738" />
+    <state width="1659" height="307" key="GridCell.Tab.1.right" timestamp="1586984046739">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="304" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1586283827002" />
+    <state width="1659" height="307" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1586890018078" />
+    <state width="1659" height="307" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1586984046739" />
+    <state x="519" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585079344470">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="519" y="315" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1585079344470" />
+    <state x="519" y="315" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1585078575620" />
+    <state x="519" y="317" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1585077363934" />
+    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1585245217225">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1585245217225" />
+  </component>
+</project>
