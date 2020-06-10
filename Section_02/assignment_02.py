@@ -13,7 +13,7 @@ who owns a bike, a laptop and boat.
 
 
 
-
+[{'Tom':{'salary':2000,'age':22,'owns':['jacket','car','tv']}},{'Mike':{'salary':24000,'age':27,'owns':['bike','laptop','boat']}}]
 
 
 
