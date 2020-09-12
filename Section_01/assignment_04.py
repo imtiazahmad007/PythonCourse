@@ -19,10 +19,14 @@ word2 = "Truck"
 # Expected Result Printed: omputerTuck
 
 # Your code below:
-
-
-
-
+lst =(word1,word2)
+c=0
+result = ''
+for x in lst:
+    w=x[:c]+x[c+1:]+' '
+    result += w
+    c += 1
+print(result)
 
 
 
