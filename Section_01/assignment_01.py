@@ -5,7 +5,7 @@
     How would you change the code to meet the requirement?
 
 """
-
+pirnt("Remainder : " , 15%4)
 
 
 
