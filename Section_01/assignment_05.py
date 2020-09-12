@@ -23,8 +23,9 @@ word = "Cool"
 
 
 # Your code below:
-
-
+l1 = len(chars)
+w1=chars[:l1//2]+word+chars[l1//2:]
+print(w1)
 
 
 
