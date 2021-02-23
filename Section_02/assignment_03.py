@@ -1,22 +1,26 @@
 # Assignment 3:
 """
-There is a list shown below titled original_list.
+    Given 2 variables chars and word, write code to move
+    the data contained in the variable word in the exact middle of
+    the characters contained in the variable chars and save this
+    in a new variable called result and print it.
 
-Using only what you've learned so far in the course,
-write code to create a new list that contains the tuple sorted.
+    NOTE: chars variable will contain only 4 characters
 
-IMPORTANT: you must do this programmatically! Don't just
-      hard code a new list with the values rearranged.
+    Example:
+    ---------------
+    chars = "<<>>"
+    word = "hello"
+    result - should contain the following string: <<hello>>
+
 """
 
-original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
+chars = "[[]]"
+word = "Cool"
 
-# your code below:
+# Expected Result Printed: [[Cool]]
 
-
-
-
-
+# Your code below:
 
 
 
@@ -49,13 +53,7 @@ original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 
 
-# Solution
-# num1 = original_list[3][0]
-# num2 = original_list[3][1]
-# num3 = original_list[3][2]
-# new_list = [num1, num2, num3]
-# new_list.sort()
-# new_tuple = (new_list[0], new_list[1], new_list[2])
-# new_list = [original_list[0], original_list[1], original_list[2], new_tuple]
-#
-# print(new_list)
+# Solution Below:
+# print(chars[:2] + word + chars[2:])
+
+

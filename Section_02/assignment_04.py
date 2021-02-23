@@ -1,18 +1,24 @@
 # Assignment 4:
 """
-In the list shown below, replace the letter m with the letter x
-and replace the word TV with the word television. Then print my_list.
+    Given 2 variables word1 and word2, write code to
+    print the concatenation of the 2 words omitting the
+    first_folder letter of the string saved in word1 and the second_folder
+    letter of the string saved in word2.
+
+    Example:
+    ---------------
+    word1 = "Vehicle"
+    word2 = "Robot"
+    result - ehicleRbot
+
 """
 
-my_list = [(1, 2), (3, 4), (['c', 'd', 'a', 'm'], [3, 9, 4, 12], 4), 'TV', 42]
+word1 = "Computer"
+word2 = "Truck"
 
+# Expected Result Printed: omputerTuck
 
-my_list[2][0][3] = 'x'
-my_list[3] = 'Television'
-
-print(my_list)
-
-
+# Your code below:
 
 
 
@@ -23,7 +29,35 @@ print(my_list)
 
 
 
-# Solution:
-# my_list[2][0][3] = 'x'
-# my_list[3] = 'Television'
-# print(my_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Solution Below:
+# result = word1[1:] + word2[0:1] + word2[2:]
+# print(result)
+
+

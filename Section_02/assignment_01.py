@@ -1,13 +1,12 @@
 # Assignment 1:
 """
-Print Bill's salary from the my_list object shown below.
-
-my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
+    We would like to get the remainder of 15 divided by 4.
+    The calculation below does not seem to give us this result.
+    How would you change the code to meet the requirement?
 
 """
 
 
-# your code below:
 
 
 
@@ -42,5 +41,11 @@ my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
 
 
 
-# Solution
-# print(my_list[0].get('Bill'))
+
+
+
+# Solution:
+
+# remainder = 15 % 4
+# print(remainder)
+
