@@ -13,19 +13,12 @@ first3([1, 2, 3, 4, 5]) → False
 
 """
 
-def first3(numbers):
+# Your Code Below:
 
-    end = len(numbers)
 
-    if end > 4:
-        end = 4
 
-    for i in range(end): # loop over index 0,1,2,3
-        if numbers[i] == 6:
-            return True
 
-    # if we get here, the loop is over and we didn't find a 6
-    return False
+
 
 
 print(first3([1,2,6,3,0,0])) # true

@@ -11,14 +11,13 @@ sequence([1, 2]) → False
 sequence([]) → False
 """
 
-def sequence(num_list):
-    for i in range(len(num_list)-2):
-        if num_list[i] == 1 and num_list[i+1] == 2 and num_list[i+2] == 3:
-            return True
+# Your Code Below:
 
-    return False
 
-print(sequence([]))
+
+
+
+
 
 
 

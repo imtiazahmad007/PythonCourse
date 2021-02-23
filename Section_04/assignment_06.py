@@ -16,26 +16,18 @@ last2('axxxaaxx') → 2
 
 """
 
-def last2(str):
+# Your Code Below:
 
-    if len(str) <= 2:
-        return 0
-
-    # last 2 chars can also be extracted with str[-2:]
-    last2 = str[len(str) - 2:]
-    count = 0
-
-    for i in range(len(str) - 2):
-        sub = str[i : i+2]
-        if sub == last2:
-            count = count + 1
-
-    return count
 
 
 print(last2('hixxhi')) #→ 1
 print(last2('xaxxaxaxx')) #→ 1
 print(last2('axxxxaaxx')) #→ 3
+
+
+
+
+
 
 
 
