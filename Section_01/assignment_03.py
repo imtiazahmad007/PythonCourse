@@ -49,6 +49,10 @@ word = "Cool"
 
 
 
+
+
+
+
 # Solution Below:
 # print(chars[:2] + word + chars[2:])
 
