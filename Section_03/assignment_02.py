@@ -7,10 +7,18 @@
     Make sure to test the function.
 """
 # Your Code Below:
-def separate(str):
-    return list(str)
 
-print(separate("hello there"))
+
+
+
+
+
+
+
+
+
+
+
 
 
 

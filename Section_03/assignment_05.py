@@ -15,13 +15,18 @@ Example:
 
 # Your Code Below:
 
-def key_list_items(key, **kwargs):
-    value_list = kwargs[key]
-    return value_list[-2]
 
-result = key_list_items("things", things=['book', 'tv', 'shoes'], people=['pete', 'mike', 'jan', 'tom'],
-                ages=[20, 30, 40])
-print(result)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
