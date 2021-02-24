@@ -14,24 +14,22 @@ sum78([1, 1, 7, 8, 2]) → 4
 
 """
 
-def sum78(nums):
+#Your Code Below:
 
-    sum = 0
-    in_range = False
 
-    for i in range(len(nums)):
 
-        if nums[i] == 7:
-            in_range = True
 
-        if in_range == False:
-            # sum = sum + nums[i]
-            sum += nums[i]
 
-        if nums[i] == 8:
-            in_range = False
 
-    return sum
+
+
+
+
+
+
+
+
+
 
 
 print(sum78([1, 2, 2])) #→ 5
