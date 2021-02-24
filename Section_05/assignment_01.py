@@ -12,60 +12,112 @@ After creating the class hierarchy, create instances of each of the 3 animals
 dog, fish and bird and make them eat and move.
 
 """
-
-class Animal:
-    def __init__(self):
-        print("Animal Constructed")
-
-    def move(self):
-        print("Animal Moving...")
-
-    def eat(self):
-        print("Animal Eating...")
+# Your Code Below:
 
 
 
-class Bird(Animal):
-
-    def __init__(self, bird_age, bird_name):
-        Animal.__init__(self)
-        self.age = bird_age
-        self.name = bird_name
-
-    def move(self):
-        print("Bird flying...")
 
 
 
-class Fish(Animal):
-
-    def __init__(self, bird_age, bird_name):
-        Animal.__init__(self)
-        self.age = bird_age
-        self.name = bird_name
-
-    def move(self):
-        print("Fish Swimming...")
 
 
-class Dog(Animal):
 
-    def __init__(self, bird_age, bird_name):
-        Animal.__init__(self)
-        self.age = bird_age
-        self.name = bird_name
 
-    def move(self):
-        print("Dog Running ...")
 
-mydog = Dog(3, "wolfy")
-mydog.move()
-mydog.eat()
 
-mydog = Fish(1, "nemo")
-mydog.move()
-mydog.eat()
 
-mydog = Bird(3, "jojo")
-mydog.move()
-mydog.eat()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Solution:
+# class Animal:
+#     def __init__(self):
+#         print("Animal Constructed")
+#
+#     def move(self):
+#         print("Animal Moving...")
+#
+#     def eat(self):
+#         print("Animal Eating...")
+#
+#
+#
+# class Bird(Animal):
+#
+#     def __init__(self, bird_age, bird_name):
+#         Animal.__init__(self)
+#         self.age = bird_age
+#         self.name = bird_name
+#
+#     def move(self):
+#         print("Bird flying...")
+#
+#
+#
+# class Fish(Animal):
+#
+#     def __init__(self, bird_age, bird_name):
+#         Animal.__init__(self)
+#         self.age = bird_age
+#         self.name = bird_name
+#
+#     def move(self):
+#         print("Fish Swimming...")
+#
+#
+# class Dog(Animal):
+#
+#     def __init__(self, bird_age, bird_name):
+#         Animal.__init__(self)
+#         self.age = bird_age
+#         self.name = bird_name
+#
+#     def move(self):
+#         print("Dog Running ...")
+#
+# mydog = Dog(3, "wolfy")
+# mydog.move()
+# mydog.eat()
+#
+# mydog = Fish(1, "nemo")
+# mydog.move()
+# mydog.eat()
+#
+# mydog = Bird(3, "jojo")
+# mydog.move()
+# mydog.eat()
