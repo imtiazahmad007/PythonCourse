@@ -16,7 +16,15 @@ Example:
 # Your Code Below:
 
 
+def key_list_items(key, **kwargs):
+    my_dict = kwargs.get(key, None)
+    if (my_dict is None) or (len(my_dict) < 2):
+        return None
+    return my_dict[-2]
 
+
+sample = key_list_items("things", things=['tv'], people=['pete', 'mike', 'jan', 'tom'])
+print(' ---- ', sample)
 
 
 

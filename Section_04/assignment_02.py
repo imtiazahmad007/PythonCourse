@@ -18,8 +18,16 @@ Example:
 """
 
 # Your Code Below:
+def pay_extra(working, hour):
+    if not working:
+        return False
+    if hour < 8 or hour > 20:
+        return True
+    return False
 
-
+print(pay_extra(True, 11))
+print(pay_extra(False, 5))
+print(pay_extra(True, 6))
 
 
 

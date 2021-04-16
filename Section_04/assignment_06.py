@@ -17,12 +17,24 @@ last2('axxxaaxx') → 2
 """
 
 # Your Code Below:
+def last2(my_str):
+    if len(my_str) <= 2:
+        return 0
+    one, two = my_str[-2], my_str[-1]
 
+    ii = 0
+    result = 0
+    while ii < len(my_str)-2:
+        if (my_str[ii] == one) and (my_str[ii+1] == two):
+            result += 1
+        ii += 1
 
+    return result
 
 print(last2('hixxhi')) #→ 1
 print(last2('xaxxaxaxx')) #→ 1
 print(last2('axxxxaaxx')) #→ 3
+print(last2('xxx')) #→ 1
 
 
 

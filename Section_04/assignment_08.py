@@ -15,28 +15,27 @@ sum78([1, 1, 7, 8, 2]) → 4
 """
 
 #Your Code Below:
+def sum78(my_list):
+    if len(my_list) == 0:
+        return 0
 
+    new_list = []
+    ii = 0
+    while ii < len(my_list):
+        if my_list[ii] == 7:
+            while my_list[ii] != 8:
+                ii += 1
+        else:
+            new_list.append(my_list[ii])
+        ii += 1
 
+    return sum(new_list)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print(sum78([1, 2, 2])) #→ 5
-print(sum78([1, 2, 2, 7, 99, 99, 8])) #→ 5
-print(sum78([1, 1, 7, 8, 2])) #→ 4
-
-
+print(sum78([1,2,2]) == 5)
+print(sum78([1,2,2,7,99,99,8]) == 5)
+print(sum78([1,1,7,8,2]) == 4)
+print(sum78([]) == 0)
+print(sum78([1]) == 1)
 
 
 

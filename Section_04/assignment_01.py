@@ -12,10 +12,24 @@ twelver(9, 3) → True
 
 """
 
+
 # Your Code Below:
+def twelver(one, two):
+    if (type(one) == int or type(one) == float) and (type(two) == int or type(two) == float):
+        pass
+    else:
+        return False
+
+    if one == 12 or two == 12 or one+two == 12:
+        return True
+    return False
 
 
-
+print(twelver(3, 12))
+print(twelver(4, 9))
+print(twelver(9, 3))
+print(twelver(5.5, 6.5))
+print(twelver("a", "1"))
 
 
 

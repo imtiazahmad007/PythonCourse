@@ -21,6 +21,9 @@ word = "Cool"
 # Expected Result Printed: [[Cool]]
 
 # Your code below:
+floor_min = len(chars)//2
+result = chars[0:floor_min] + word + chars[floor_min:]
+print(f"{result}")
 
 
 

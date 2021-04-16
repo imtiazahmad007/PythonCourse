@@ -9,6 +9,7 @@ print("We have {2} small boxes, {2} large boxes, {2} medium boxes".format(10,12,
 
 """
 
+print("We have {0} small boxes, {1} large boxes, and {1} medium boxes".format(10, 12))
 
 
 

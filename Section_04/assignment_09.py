@@ -38,11 +38,30 @@ d= {
 
 # Your Code Below:
 # --------------------------------------
+max = 0
+for key in d:
+    cur_num = int(d[key])
+    if cur_num > max:
+        max = cur_num
 
 
+for cur_str in fr:
+    str_split = cur_str.split("|")
+    email = str_split[0]
+    is_in_d = d.get(email, None)
+    if is_in_d is None:
+        max += 1
+        d[email] = str(max)
 
 
+def replace_email_with_val(my_str):
+    str_split = my_str.split("|")
+    email = str_split[0]
+    str_split[0] = d.get(email)
+    return "|".join(str_split)
 
+
+fr = list(map(replace_email_with_val, fr))
 
 # don't change the lines below:
 # --------------------------------------

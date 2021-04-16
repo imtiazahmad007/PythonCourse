@@ -15,16 +15,23 @@ first3([1, 2, 3, 4, 5]) → False
 
 # Your Code Below:
 
+def first3(my_list):
+    ii = 0
+    while ii < len(my_list) and ii < 4:
+        if my_list[ii] == 6:
+            return True
+        ii += 1
+
+    return False
 
 
 
 
 
-
-print(first3([1,2,6,3,0,0])) # true
-print(first3([1,2,3,3,0,6])) # false
-print(first3([6])) # true
-print(first3([])) # false
+print(first3([1,2,6,3,0,0]))
+print(first3([1,2,3,3,0,6]))
+print(first3([6]))
+print(first3([]))
 
 
 

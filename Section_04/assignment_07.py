@@ -14,10 +14,23 @@ EXAMPLE:
 
 #Your Code Below:
 
+def string_match(str1, str2):
+    set1 = set()
+    for ii in range(len(str1)-1):
+        my_str = str1[ii]+str1[ii+1]
+        set1.add(my_str)
+
+    set2 = set()
+    for ii in range(len(str2)-1):
+        my_str = str2[ii]+str2[ii+1]
+        set2.add(my_str)
+
+    return len(set1.intersection(set2))
 
 
-
-
+print(string_match("xxcaazz", "xxbaaz") == 3)
+print(string_match("abc", "abc") == 2)
+print(string_match("abc", "axc") == 0)
 
 
 
