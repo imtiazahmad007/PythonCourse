@@ -5,8 +5,8 @@
     How would you change the code to meet the requirement?
 
 """
-
-
+rem = 15 % 4
+print ( rem )
 
 
 
