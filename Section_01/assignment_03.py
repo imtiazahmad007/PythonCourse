@@ -22,6 +22,12 @@ word = "Cool"
 
 # Your code below:
 
+char= "[[]]"
+word= "Cool"
+result= char[:2] + word + char[2:4]
+print(result)
+
+
 
 
 
