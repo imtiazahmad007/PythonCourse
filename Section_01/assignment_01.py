@@ -6,7 +6,9 @@
 
 """
 
-
+Num1=15
+Num2=4
+Print(num1 % num2 )
 
 
 
